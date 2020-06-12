@@ -158,7 +158,7 @@
 
     ```
     🟦 Play with the cat
-    ☑ Do the dishes
+    ✅ Do the dishes
     🟦 Empty litter boxes
     ```
 
@@ -170,7 +170,9 @@
     0 1 1 2 3 5 8 13 21 34 55
     ```
 
-25. Write a function that prints out Pascal's Triangle for a given number of rows.
+25. Write
+
+26. Write a function that prints out Pascal's Triangle for a given number of rows.
 
     ```bash
     How many rows? > 6
