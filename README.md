@@ -1,4 +1,9 @@
-﻿1.  Write a program that prints "Hello, world!" in the console.
+﻿- Fork this repository to your own GitHub account
+- Submit your solution to each challenge as a pull request
+
+## Challenges
+
+1.  Write a program that prints "Hello, world!" in the console.
 
     ```
     Hello, world
@@ -12,7 +17,7 @@
     ```
 
 3.  Write a program that asks for a first name and last name, and prints out "Hello," followed by
-    the full name. (Use string interpolation..
+    the full name. (Use string interpolation)
 
     ```
     What is your first name? > Baird
@@ -221,6 +226,7 @@
     ```
 
 28. Take one of the previous challenges and implement it in a web page instead of the console.
+    Deploy it using [Vercel](www.vercel.com).
 
 29. Write a program that takes the name of a Pokémon and uses the [Pokémon API](https://pokeapi.co/)
     to return information about it.
@@ -233,9 +239,37 @@
     weight: 60
     ```
 
-30. Write a program to play one of these games:
+30. Choose two of these games and make programs to play them in the console.
 
     - [Memory](https://www.youtube.com/watch?v=492bM_dhdR4)
     - [Battleship](https://www.youtube.com/watch?v=4gHJlYLomrs)
     - [Connect 4](https://www.youtube.com/watch?v=utXzIFEVPjA)
     - [Yahtzee](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+---
+
+## Scavenger hunt
+
+- [ ] `console.log()`
+- [ ] string
+- [ ] number
+- [ ] boolean
+- [ ] concatenation
+- [ ] `if`/`then`/`else`
+- [ ] array
+- [ ] object
+- [ ] string interpolation: `${foo}`
+- [ ] `Math.floor()`
+- [ ] `Math.rnd()`
+- [ ] `while` loop
+- [ ] `do`/`while` loop
+- [ ] `for (x; x<n; x++)`
+- [ ] `for (x in y)`
+- [ ] `for (x of y)`
+- [ ] arrow function: `() => {}`
+- [ ] BigInt
+- [ ] `filter`, `all`, `some`
+- [ ] `map`, `reduce`
+- [ ] recursion
+- [ ] `class`
+- [ ] `fetch`
