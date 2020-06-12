@@ -248,9 +248,9 @@
     - [Connect 4](https://www.youtube.com/watch?v=utXzIFEVPjA)
     - [Yahtzee](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
----
-
 ## Scavenger hunt
+
+By the end, you should have examples of each of these in your code:
 
 - [ ] `console.log()`
 - [ ] string
@@ -266,7 +266,7 @@
 - [ ] `Math.rnd()`
 - [ ] `while` loop
 - [ ] `do`/`while` loop
-- [ ] `for (x; x<n; x++)`
+- [ ] `for (x; x < n; x++)`
 - [ ] `for (x in y)`
 - [ ] `for (x of y)`
 - [ ] ternary operator `?`/`:`
