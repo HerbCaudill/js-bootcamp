@@ -145,7 +145,28 @@
     Refactor the previous four functions so that they use the general `isDivisible` function
     internally.
 
-22. First write tests for a function that tells if a number is prime; then write the function
+22. Write a function that takes a temperature in Fahrenheit, and returns an object with that temperature in Fahrenheit, Celsius, and Kelvin.
+
+    ```
+    Enter temperature in F: > 74
+    {
+       fahrenheit: 74
+       celsius: 23
+       kelvin: 296
+    }
+
+    ```
+
+23) Write a function that takes a list of to-do items, and prints them to the console, along with
+    checkboxes indicating whether they've been completed or not.
+
+    ```
+    [ ] Play with the cat
+    [√] Do the dishes
+    [ ] Empty litter boxes
+    ```
+
+24) First write tests for a function that tells if a number is prime; then write the function
     itself, using the sieve of Eratosthenes.
 
     ```js
@@ -153,28 +174,24 @@
     expect(isPrime(37)).toBe(true)
     ```
 
-23. Write a function that takes a list of to-do items, and prints them to the console, along with
-    checkboxes indicating whether they've been completed or not.
+25) Write a function that prints out the first N numbers in Fibonacci's sequence.
 
     ```
-    ○ Play with the cat
-    ● Do the dishes
-    ○ Empty litter boxes
-    ```
-
-24. Write a function that prints out the first N numbers in Fibonacci's sequence.
-
-    ```bash
     How many numbers? > 10
 
     0 1 1 2 3 5 8 13 21 34 55
     ```
 
-25. Write
+26) Write a function that returns the factorial of the given number.
 
-26. Write a function that prints out Pascal's Triangle for a given number of rows.
+    ```
+    Enter a number: > 43
+    43! = 60415263063373835637355132068513997507264512000000000
+    ```
 
-    ```bash
+27) Write a program that prints out Pascal's Triangle for a given number of rows.
+
+    ```
     How many rows? > 6
 
     1
