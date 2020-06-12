@@ -270,7 +270,7 @@ By the end, you should have examples of each of these in your code:
 - [ ] `for (x in y)`
 - [ ] `for (x of y)`
 - [ ] ternary operator `?`/`:`
-- [ ] arrow function: `() => {}`
+- [ ] arrow function `() => {}`
 - [ ] BigInt
 - [ ] `filter`, `all`, `some`
 - [ ] `map`, `reduce`
