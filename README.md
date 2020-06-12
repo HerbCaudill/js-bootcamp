@@ -262,7 +262,7 @@ By the end, you should have examples of each of these in your code:
 - [ ] modulo operator `%`
 - [ ] array
 - [ ] object
-- [ ] string interpolation: `\`\${foo}\``
+- [ ] string interpolation: `` `${foo}` ``
 - [ ] `Math.floor()`
 - [ ] `Math.rnd()`
 - [ ] `while` loop
