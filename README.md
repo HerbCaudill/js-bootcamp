@@ -271,7 +271,7 @@ By the end, you should have examples of each of these in your code:
 - [ ] `for (x of y)`
 - [ ] ternary operator `?`/`:`
 - [ ] arrow function `() => {}`
-- [ ] BigInt
+- [ ] `BigInt`
 - [ ] `filter`, `all`, `some`
 - [ ] `map`, `reduce`
 - [ ] recursion
