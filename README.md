@@ -167,7 +167,7 @@
 
     ```
     [ ] Play with the cat
-    [√] Do the dishes
+    [x] Do the dishes
     [ ] Empty litter boxes
     ```
 
@@ -207,8 +207,9 @@
     1   5  10   0   5   1
     ```
 
-27. Write a `Deck` class that represents a deck of cards. It should have methods to shuffle; to deal
-    a hand of four cards; and to count the number of cards left.
+27. Write a `Deck` class that represents a deck of cards. It should start with the cards sorted. It
+    should have methods to shuffle; to deal a hand of four cards; and to count the number of cards
+    left.
 
     ```js
     const cards = new Deck()
@@ -261,7 +262,7 @@ By the end, you should have examples of each of these in your code:
 - [ ] modulo operator `%`
 - [ ] array
 - [ ] object
-- [ ] string interpolation: `${foo}`
+- [ ] string interpolation: `\`\${foo}\``
 - [ ] `Math.floor()`
 - [ ] `Math.rnd()`
 - [ ] `while` loop
@@ -269,6 +270,7 @@ By the end, you should have examples of each of these in your code:
 - [ ] `for (x; x < n; x++)`
 - [ ] `for (x in y)`
 - [ ] `for (x of y)`
+- [ ] `describe`/`test`/`expect`
 - [ ] ternary operator `?`/`:`
 - [ ] arrow function `() => {}`
 - [ ] `BigInt`
