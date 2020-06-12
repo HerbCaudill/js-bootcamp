@@ -157,9 +157,9 @@
     checkboxes indicating whether they've been completed or not.
 
     ```
-    🟦 Play with the cat
-    ✅ Do the dishes
-    🟦 Empty litter boxes
+    ○ Play with the cat
+    ● Do the dishes
+    ○ Empty litter boxes
     ```
 
 24. Write a function that prints out the first N numbers in Fibonacci's sequence.
