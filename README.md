@@ -1,4 +1,6 @@
-﻿- Fork this repository to your own GitHub account
+﻿# Javascript Bootcamp
+
+- Fork this repository to your own GitHub account
 - Submit your solution to each challenge as a pull request
 
 ## Challenges
@@ -256,6 +258,7 @@
 - [ ] boolean
 - [ ] concatenation
 - [ ] `if`/`then`/`else`
+- [ ] modulo operator `%`
 - [ ] array
 - [ ] object
 - [ ] string interpolation: `${foo}`
@@ -266,6 +269,7 @@
 - [ ] `for (x; x<n; x++)`
 - [ ] `for (x in y)`
 - [ ] `for (x of y)`
+- [ ] ternary operator `?`/`:`
 - [ ] arrow function: `() => {}`
 - [ ] BigInt
 - [ ] `filter`, `all`, `some`
