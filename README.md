@@ -39,7 +39,7 @@
 
     ```
     How old are you? > 20
-    Where are you from? (US or Spain. > US
+    Where are you from? (US or Spain) > US
     You are not old enough to vote
     ```
 
@@ -53,7 +53,7 @@
 
 7.  Write a function that returns a random number between 1 and 10.
 
-8.  Write a function that returns a random 4-digit number.
+8.  Write a program that prints 100 random 4-digit numbers.
 
 9.  Make a "Guess My Number" game.
 
@@ -259,12 +259,13 @@ By the end, you should have examples of each of these in your code:
 - [ ] boolean
 - [ ] concatenation
 - [ ] `if`/`then`/`else`
+- [ ] 'not' operator `!`
 - [ ] modulo operator `%`
 - [ ] array
 - [ ] object
 - [ ] string interpolation: `` `${foo}` ``
 - [ ] `Math.floor()`
-- [ ] `Math.rnd()`
+- [ ] `Math.random()`
 - [ ] `while` loop
 - [ ] `do`/`while` loop
 - [ ] `for (x; x < n; x++)`
@@ -278,4 +279,6 @@ By the end, you should have examples of each of these in your code:
 - [ ] `map`, `reduce`
 - [ ] recursion
 - [ ] `class`
+- [ ] `require`
 - [ ] `fetch`
+- [ ] `async`/`await`
